@@ -1,0 +1,9 @@
+Esta pagina te puede ayudar bastante en cuanto al diseño
+frontend para cualquier proyecto , cual es el rol de los colores, lineamientos 
+para las tipo grafias, etc. 
+
+NOTA INTERESANTE: NUESTRO OJO HUMANO FUNCIONA CON REGLA DE 4
+POR ESO ES MUY IMPORTANTE QUE LA MARGEN QUE SE VAYA A UTILIZAR
+SEA DE MULTIPLOS DE 4
+
+https://polaris.shopify.com/design/design
