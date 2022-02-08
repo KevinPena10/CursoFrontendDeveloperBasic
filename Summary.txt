@@ -7,3 +7,14 @@ POR ESO ES MUY IMPORTANTE QUE LA MARGEN QUE SE VAYA A UTILIZAR
 SEA DE MULTIPLOS DE 4
 
 https://polaris.shopify.com/design/design
+
+
+.product-card img{
+    width: 240px;
+    height: 240px;
+    border-radius: 20px;
+    object-fit: cover; /* Mantiene el tamaño original de la imagen sin pixelarse
+    pero se adecuado al tamaño del width y height que uno establezca
+    
+     */ 
+}
