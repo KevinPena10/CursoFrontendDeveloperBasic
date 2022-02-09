@@ -18,3 +18,9 @@ https://polaris.shopify.com/design/design
     
      */ 
 }
+
+.email {
+  font-size: var(--sm);
+  font-weight: 300 !important; -> Los important no siempre son 100% malos,
+   depende la situación, se deben evitar al maximo. En este caso es un buen ejemplo.
+}
